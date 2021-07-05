@@ -1,3 +1,5 @@
+腾讯开源，Hardcoder是一套Android APP与系统间的通信解决方案
+
 # Hardcoder
 
 [![license](http://img.shields.io/badge/license-BSD3-brightgreen.svg?style=flat)](https://github.com/Tencent/tinker/blob/master/LICENSE)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Tencent/tinker/pulls)
